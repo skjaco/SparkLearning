@@ -1,0 +1,6 @@
+hadoop spark
+spark storm hive
+hdfs java c++ python
+python
+java hive spark streaming
+machinelearning hadoop deeplearning
